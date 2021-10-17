@@ -5,9 +5,9 @@
 
 <h1 align="center">## Vay be profil sayfamı bulmuşsun!</h1>
 
-Şu anda burada gerçekten hiçbir şey yok... belki daha sonra eklerim.\
+<h3 align="center">Şu anda burada gerçekten hiçbir şey yok... belki daha sonra eklerim.\
 Burada bir yılan var, istersen onu da izleyebilirsiniz.\
-Profilime göz attığınız için teşekkürler, iyi günler dilerim! 😃
+Profilime göz attığınız için teşekkürler, iyi günler dilerim!</h3> 😃
 
 ## 🙋‍♂️ About Me
 
