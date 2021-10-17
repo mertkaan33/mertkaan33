@@ -3,6 +3,13 @@
 <h1 align="center">Hi, I'm Mert</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Turkey.</h3>
 
+## Vay be profil sayfamı bulmuşsun!
+
+Şu anda burada gerçekten hiçbir şey yok... belki daha sonra eklerim.\
+Burada bir yılan var, istersen onu da izleyebilirsiniz.\
+Profilime göz attığınız için teşekkürler, iyi günler dilerim! 😃
+
+![snek gif](https://github.com/mertkaan33/mertkaan33/blob/output/github-contribution-grid-snake.svg)
 
 ## 🙋‍♂️ About Me
 
