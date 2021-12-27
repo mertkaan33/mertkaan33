@@ -49,11 +49,10 @@ Profilime göz attığınız için teşekkürler, iyi günler dilerim!</h3>
 ## 📊 My Github Stats
 
    <br/>
-    <a href="https://github.com/mertkaan33"><img alt="RivaDarlin Github Stats" src="https://github-readme-stats.vercel.app/api?username=mertkaan33&show_i
-    s=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/mertkaan33"><img alt="RivaDarlin Github Stats" src="https://github-readme-stats.vercel.app/api?username=mertkaan33&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <a href="https://github.com/mertkaan33"><img alt="RivaDarlin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-
+  
 <br/>
 <br/>
 
