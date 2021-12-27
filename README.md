@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi, I'm Mert</h1>
+<h1 align="center">Hi, I'm Mert Kaan</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Turkey.</h3>
 
 <h1 align="center">## Vay be profil sayfamı bulmuşsun!</h1>
@@ -49,7 +49,7 @@ Profilime göz attığınız için teşekkürler, iyi günler dilerim!</h3>
 ## 📊 My Github Stats
 
    <br/>
-    <a href="https://github.com/merkaan33"><img alt="RivaDarlin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=merkaan33&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/merkaan33"><img alt="RivaDarlin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <a href="https://github.com/merkaan33"><img alt="RivaDarlin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
