@@ -44,39 +44,27 @@ Profilime göz attığınız için teşekkürler, iyi günler dilerim!</h3>
  [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mertkaan33&theme=chartreuse-dark&cache_delete=5" alt="my github stats" width="80%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ardagokus&theme=chartreuse-dark&cache_delete=5" alt="my github stats" width="80%" />
 
 ## 📊 My Github Stats
 
    <br/>
-    <a href="https://github.com/merkaan33"><img alt="RivaDarlin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/merkaan33"><img alt="RivaDarlin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
-<br/>
-
-<br/>
+    <a href="https://github.com/mertkaan33"><img alt="RivaDarlin Github Stats" src="https://github-readme-stats.vercel.app/api?username=mertkaan33&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/mertkaan33"><img alt="RivaDarlin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <br/>
 <br/>
 
-<a href="https://github.com/mertkaan33/"><img alt="Mert Kaan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mertkaan33&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ardagokus/"><img alt="RivaDarlin Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ardagokus&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
-<!--
-## Connect with me:
-<p align="left">
 
-<a href = "https://www.linkedin.com/in/mert-kaan-692b511ba/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-</p>
--->
 ---
 
 ### How is the pandemic going?
-
 ---
 
 <table style="border:none;">
