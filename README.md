@@ -44,7 +44,7 @@ Profilime göz attığınız için teşekkürler, iyi günler dilerim!</h3>
  [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mertkaan33&&theme=light&show_icons=true&count_private=true&layout=compact&langs_count=10&a&bg_color=30,182848,4b6cb7&title_color=fff&text_color=fff" alt="my github stats" width="80%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mertkaan33&theme=chartreuse-dark&cache_delete=5" alt="my github stats" width="80%" />
 
 ## 📊 My Github Stats
 
@@ -56,7 +56,7 @@ Profilime göz attığınız için teşekkürler, iyi günler dilerim!</h3>
 <br/>
 <br/>
 
-<a href="https://github.com/mertkaan33/"><img alt="RivaDarlin Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mertkaan33&theme=chartreuse-dark&cache_delete=5" /></a>
+<a href="https://github.com/mertkaan33/"><img alt="RivaDarlin Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mertkaan33&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
