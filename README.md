@@ -56,7 +56,7 @@ Profilime göz attığınız için teşekkürler, iyi günler dilerim!</h3>
 <br/>
 <br/>
 
-<a href="https://github.com/mertkaan33/"><img alt="RivaDarlin Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mertkaan33&&theme=light&show_icons=true&count_private=true&layout=compact&langs_count=10&a&bg_color=30,182848,4b6cb7&title_color=fff&text_color=fff" /></a>
+<a href="https://github.com/mertkaan33/"><img alt="RivaDarlin Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mertkaan33&theme=chartreuse-dark&cache_delete=5" /></a>
 
 <br/>
 <br/>
