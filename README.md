@@ -49,16 +49,12 @@ Profilime göz attığınız için teşekkürler, iyi günler dilerim!</h3>
 ## 📊 My Github Stats
 
    <br/>
-    <a href="https://github.com/merkaan33"><img alt="Arda Gokus Github Stats" src="https://github-readme-stats.vercel.app/api?username=ardagokus&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/merkaan33"><img alt="Arda Gokus's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/merkaan33"><img alt="RivaDarlin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ardagokus&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/merkaan33"><img alt="RivaDarlin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <br/>
-<br/>
 
-<a href="https://github.com/ardagokus/"><img alt="Arda Gokus Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ardagokus&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 <br/>
   <br/>
 
