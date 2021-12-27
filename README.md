@@ -49,8 +49,8 @@ Profilime göz attığınız için teşekkürler, iyi günler dilerim!</h3>
 ## 📊 My Github Stats
 
   <br/>
-![RivaDarlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidFFDAW&count_private=true&theme=radical&show_icons=true&a&bg_color=30,4b6cb7,182848&title_color=fff&text_color=fff)
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidFFDAW&&theme=light&show_icons=true&count_private=true&layout=compact&langs_count=10&a&bg_color=30,182848,4b6cb7&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+![RivaDarlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertkaan33&count_private=true&theme=radical&show_icons=true&a&bg_color=30,4b6cb7,182848&title_color=fff&text_color=fff)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertkaan33&&theme=light&show_icons=true&count_private=true&layout=compact&langs_count=10&a&bg_color=30,182848,4b6cb7&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
 
 <br/>
