@@ -1,8 +1,8 @@
-<img src="./code.gif" align="right" alt="Coder GIF" width="480" height="300">
+
 
 <h1 align="center">Hi, I'm Mert Kaan</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Turkey.</h3>
-
+<img src="./code.gif" align="right" alt="Coder GIF" width="480" height="300">
 <h1 align="center">## Vay be profil sayfamı bulmuşsun!</h1>
 
 <p align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=songraper&redirect=true"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=songraper&cover_image=true&theme=default"><a/></p>
