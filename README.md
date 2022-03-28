@@ -1,16 +1,16 @@
-<h1 align="center">Hi, I'm Mert Kaan</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Turkey.</h3>
+<h1 align="center">Merhaba ben 4Twain</h1>
+<h3 align="center">Türkiyede tutkulu bir Full Stack Developer'ım.</h3>
 <span align="center">
 <div style="text-align:center"><img src="./code.gif" align="center" alt="Coder GIF" width="480" height="300">
 <h1 align="center">## Vay be profil sayfamı bulmuşsun!</h1>
 
-<p align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=songraper&redirect=true"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=songraper&cover_image=true&theme=default"><a/></p>
+<p align="center"><a href="https://api.spotify.com/v1/users/smedjan"><img align="center" src="https://api.spotify.com/v1/users/smedjan"><a/></p>
     
 <h3 align="center">Profilime göz attığınız için teşekkürler, iyi günler dilerim!</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[RIVADEV](https://www.riva.network/)**
+- 🔭 I’m currently working on **[RIVADEV](https://www.rivadev.net/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
