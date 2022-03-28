@@ -4,7 +4,7 @@
 <div style="text-align:center"><img src="./code.gif" align="center" alt="Coder GIF" width="480" height="300">
 <h1 align="center">## Vay be profil sayfamı bulmuşsun!</h1>
 
-<p align="center"><a href="https://api.spotify.com/v1/users/smedjan"><img align="center" src="https://api.spotify.com/v1/users/smedjan"><a/></p>
+<p align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=songraper&redirect=true"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=songraper&cover_image=true&theme=default"><a/></p>
     
 <h3 align="center">Profilime göz attığınız için teşekkürler, iyi günler dilerim!</h3>
 
