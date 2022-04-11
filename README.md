@@ -1,16 +1,13 @@
-<h1 align="center">Merhaba ben 4Twain</h1>
-<h3 align="center">Türkiyede tutkulu bir Full Stack Developer'ım.</h3>
+<h1 align="center">Hello my 4Twain</h1>
 <span align="center">
 <div style="text-align:center"><img src="./code.gif" align="center" alt="Coder GIF" width="480" height="300">
-<h1 align="center">## Vay be profil sayfamı bulmuşsun!</h1>
+<h1 align="center">## Wow you found my profile page!</h1>
 
 <p align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=songraper&redirect=true"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=songraper&cover_image=true&theme=default"><a/></p>
     
 <h3 align="center">Profilime göz attığınız için teşekkürler, iyi günler dilerim!</h3>
 
 ## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **[RIVADEV](https://www.rivadev.net/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -44,14 +41,14 @@
 ## 📊 My Github Stats
 
    <br/>
-    <a href="https://github.com/mertkaan33"><img alt="RivaDarlin Github Stats" src="https://github-readme-stats.vercel.app/api?username=mertkaan33&&theme=light&show_icons=true&count_private=true&layout=compact&langs_count=10&a&bg_color=30,182848,4b6cb7&title_color=fff&text_color=fff" /></a>
-    <a href="https://github.com/mertkaan33"><img alt="RivaDarlin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&&theme=light&show_icons=true&count_private=true&layout=compact&langs_count=10&a&bg_color=30,182848,4b6cb7&title_color=fff&text_color=fff" /></a>
+    <a href="https://github.com/mertkaan33"><img alt="4Twain Github Stats" src="https://github-readme-stats.vercel.app/api?username=mertkaan33&&theme=light&show_icons=true&count_private=true&layout=compact&langs_count=10&a&bg_color=30,182848,4b6cb7&title_color=fff&text_color=fff" /></a>
+    <a href="https://github.com/mertkaan33"><img alt="4Twain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&&theme=light&show_icons=true&count_private=true&layout=compact&langs_count=10&a&bg_color=30,182848,4b6cb7&title_color=fff&text_color=fff" /></a>
   <br/>
   
 <br/>
 <br/>
 
-<a href="https://github.com/mertkaan33/"><img alt="RivaDarlin Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mertkaan33&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/mertkaan33/"><img alt="4Twain Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mertkaan33&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
