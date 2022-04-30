@@ -20,6 +20,7 @@
 ## 🚀 Languages and Tools:
 
 <summary>Langues</summary>
+<br/>
 <div align="center">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" />
 <img src="https://github.com/skateboard/skateboard/blob/master/images/cpp.png" />
@@ -36,6 +37,7 @@
 <br>
     
 <summary>Build Systems</summary>
+<br/>
 <div align="center">
 <img src="https://github.com/skateboard/skateboard/blob/master/images/gradle.png?raw=true">
 <img src="https://github.com/skateboard/skateboard/blob/master/images/maven.png?raw=true">
@@ -47,6 +49,7 @@
 ---
     
 <summary>Database</summary>
+<br/>
 <div align="center">
 <img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/mysql.png">
 <img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/mongo%20db.png">
@@ -58,6 +61,7 @@
 ---
 
 <summary>IDE's</summary>
+<br/>
 <div align="center">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_goland.svg">
