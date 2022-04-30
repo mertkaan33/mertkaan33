@@ -54,6 +54,7 @@
 </div>
 
 <br/>
+    
 ---
 
 <summary>IDE's</summary>
@@ -69,22 +70,7 @@
 <br/>
 
 --- 
-    
-<summary>Specializations</summary>
-<div align="center">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/digitalocean.svg">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/aws.svg">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/azure.svg">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/google_cloud_platform.svg">
-<img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/heroku.png">
-<img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/vercel.png">
-<img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/grpc.png">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/security.svg">
-</div>
 
-<br/>
-
----
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mertkaan33&theme=chartreuse-dark&cache_delete=5" alt="my github stats" width="80%" />
 
