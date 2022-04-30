@@ -27,9 +27,12 @@
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp.svg">
     <img src="https://github.com/skateboard/skateboard/blob/master/images/go.png?raw=true">
 </ 
-    <a style="padding-right:8px;" target="_blank"> <img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/mysql.png"> </a> 
-    <a style="padding-right:8px;" img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/mongo%20db.png"> </a>
-    <a style="padding-right:8px;" img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/redis%20db.png"> </a>
+<div align="center">
+    <a style="padding-right:8px;" <img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/mysql.png"> </a>
+    <a style="padding-right:8px;" <img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/mongo%20db.png"> </a>
+    <a style="padding-right:8px;" <img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/redis%20db.png"> </a>
+</div>
+</details>
  
 </p>
 
