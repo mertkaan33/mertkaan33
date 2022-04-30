@@ -28,11 +28,10 @@
     <img src="https://github.com/skateboard/skateboard/blob/master/images/go.png?raw=true">
 </ 
 <div align="center">
-    <a style="padding-right:8px;" <img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/mysql.png"> </a>
-    <a style="padding-right:8px;" <img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/mongo%20db.png"> </a>
-    <a style="padding-right:8px;" <img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/redis%20db.png"> </a>
+    <img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/mysql.png">
+    <img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/mongo%20db.png">
+    <img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/redis%20db.png">
 </div>
-</details>
  
 </p>
 
@@ -58,16 +57,3 @@
  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ctnkaan&theme=onedark">
 
 ---
-
-### How is the pandemic going?
----
-
-<table style="border:none;">
-<tr> 
-<td>  <img src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" width="300px" alt="Coder" /></td >
- <td> <img src="https://i.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.webp" width="300px" alt="Coder" />
-</td>
- <td> <img src="https://i.pinimg.com/originals/41/f5/2d/41f52d4e756d803f9f1851335dba96f6.gif" width="300px" alt="Coder" />
-</td>
-</tr>
-  </table>
