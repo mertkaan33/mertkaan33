@@ -28,7 +28,14 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp.svg">
 <img src="https://github.com/skateboard/skateboard/blob/master/images/go.png?raw=true">
 </div>
+    
+    <br/>
+ <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ctnkaan&theme=onedark">
 
+---
+    
+<br>
+    
 <summary>Build Systems</summary>
 <div align="center">
 <img src="https://github.com/skateboard/skateboard/blob/master/images/gradle.png?raw=true">
@@ -36,6 +43,11 @@
 <img src="https://github.com/skateboard/skateboard/blob/master/images/docker.png?raw=true">
 </div>
 
+    <br/>
+ <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ctnkaan&theme=onedark">
+
+---
+    
 <summary>Database</summary>
 <div align="center">
 <img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/mysql.png">
@@ -43,7 +55,6 @@
 <img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/redis%20db.png">
 </div>
 
-<br/>
 <br/>
  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ctnkaan&theme=onedark">
 
@@ -59,6 +70,11 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_webstorm.svg">
 </div>
 
+   <br/>
+ <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ctnkaan&theme=onedark">
+
+--- 
+    
 <summary>Specializations</summary>
 <div align="center">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/digitalocean.svg">
@@ -71,8 +87,10 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/security.svg">
 </div>
 
-<br>
-<br>
+<br/>
+ <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ctnkaan&theme=onedark">
+
+---
  
 <br/>
 
