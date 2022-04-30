@@ -43,6 +43,11 @@
 <img src="https://raw.githubusercontent.com/skateboard/skateboard/master/images/redis%20db.png">
 </div>
 
+<br/>
+<br/>
+ <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ctnkaan&theme=onedark">
+
+---
 
 <summary>IDE's</summary>
 <div align="center">
