@@ -79,7 +79,6 @@
 <summary>Github stats</summary>
 <div align="center">
 <a href="https://github.com/mertkaan33">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skateboard&theme=dark&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skateboard&theme=dark&layout=compact" />
 </a>
 </div>
@@ -96,7 +95,7 @@
 
    <br/>
     <a href="https://github.com/mertkaan33"><img alt="4Twain Github Stats" src="https://github-readme-stats.vercel.app/api?username=mertkaan33&&theme=light&show_icons=true&count_private=true&layout=compact&langs_count=10&a&bg_color=30,182848,4b6cb7&title_color=fff&text_color=fff" /></a>
-    <a href="https://github.com/mertkaan33"><img alt="4Twain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&&theme=light&show_icons=true&count_private=true&layout=compact&langs_count=10&a&bg_color=30,182848,4b6cb7&title_color=fff&text_color=fff" /></a>
+    <a href="https://github.com/mertkaan33"><img alt="4Twain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skateboard&theme=dark&layout=compact&langs_count=10&a&bg_color=30,182848,4b6cb7&title_color=fff&text_color=fff" /></a>
   <br/>
   
 <br/>
