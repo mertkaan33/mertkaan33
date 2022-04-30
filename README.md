@@ -72,8 +72,6 @@
 --- 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mertkaan33&theme=chartreuse-dark&cache_delete=5" alt="my github stats" width="80%" />
-
 ## 📊 My Github Stats
 
    <br/>
