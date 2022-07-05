@@ -1,4 +1,4 @@
-<h1 align="center">Hello my 4Twain</h1>
+<h1 align="center">Hello my Necati Mert</h1>
 <span align="center">
 <div style="text-align:center"><img src="./log.png" align="center" alt="Coder GIF" width="480" height="300">
 <h1 align="center">## Wow you found my profile page!</h1>
