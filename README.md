@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
-
+<img src="/log.png" align="right" width="450">
 <summary>Langues</summary>
 <br/>
 <div align="center">
@@ -35,7 +35,7 @@
 ---
     
 <br>
-    <img src="assets/log.png" align="right" width="450">
+    
 <summary>Build Systems</summary>
 <br/>
 <div align="center">
