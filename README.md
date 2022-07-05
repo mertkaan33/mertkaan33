@@ -5,7 +5,7 @@
 
 <p align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=songraper&redirect=true"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=songraper&cover_image=true&theme=default"><a/></p>
     
-<h3 align="center">Profilime göz attığınız için teşekkürler, iyi günler dilerim!</h3>
+<h3 align="center">Thanks for browsing my profile, have a nice day!</h3>
 
 ## 🙋‍♂️ About Me
 
