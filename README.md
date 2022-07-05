@@ -35,7 +35,7 @@
 ---
     
 <br>
-    
+    <img src="assets/log.png" align="right" width="450">
 <summary>Build Systems</summary>
 <br/>
 <div align="center">
